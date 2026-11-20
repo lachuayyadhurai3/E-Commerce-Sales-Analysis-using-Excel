@@ -124,6 +124,8 @@ AOV ranges **~$918–$1,304** around $1,087 mean. Peak: **Nov 2024 ($1,304)**. T
 
 ## 📊 Dashboard
 
+<img width="948" height="382" alt="Dashboard" src="https://github.com/user-attachments/assets/f20a49ce-b9e9-46e3-a485-e7759fefc8fc" />
+
 One-page `Dashboard` sheet with:
 - KPI cards: Total Revenue, Total Orders, AOV, Avg Unit Price
 - Charts: Revenue by Year, Orders by Category, Revenue by Payment Type, AOV by Month, Avg Sales by Region, Loyalty by Gender
